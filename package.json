@@ -26,7 +26,7 @@
     ]
   },
   "homepage":
-  "http://KVNG007.github.io/Puzzle"
+  "http://KVNG007.github.io/Puzzle",
   "browserslist": {
     "production": [
       ">0.2%",
